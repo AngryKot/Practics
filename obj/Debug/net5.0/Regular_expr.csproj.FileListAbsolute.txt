@@ -1,0 +1,16 @@
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\Regular_expr.exe
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\Regular_expr.deps.json
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\Regular_expr.runtimeconfig.json
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\Regular_expr.runtimeconfig.dev.json
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\Regular_expr.dll
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\ref\Regular_expr.dll
+C:\Users\zerqw\source\repos\Regular_expr\bin\Debug\net5.0\Regular_expr.pdb
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.csproj.AssemblyReference.cache
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.AssemblyInfoInputs.cache
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.AssemblyInfo.cs
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.csproj.CoreCompileInputs.cache
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.dll
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\ref\Regular_expr.dll
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.pdb
+C:\Users\zerqw\source\repos\Regular_expr\obj\Debug\net5.0\Regular_expr.genruntimeconfig.cache
